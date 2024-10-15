@@ -10,3 +10,7 @@ This is a demo for sharing ideas around communication
 ### Gist
 
 This is a good example of [my code] (https://gist.github.com/Fatemeh-Esmaeili/5457f5740043be30013a6d42e3c037fd)
+
+### Colab Example
+
+this is the [notebook] (https://colab.research.google.com/github/Fatemeh-Esmaeili/technical-discussion/blob/main/technical_docs.ipynb)
